@@ -7,4 +7,4 @@
 - Remove duplicate items from an **Array**
 - Math, abs,round, ceil, floor and random numbers
 - JavaScript date and time
--Swap variable, swap without temp, destructing
+- Swap variable, swap without temp, destructing
