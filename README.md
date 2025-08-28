@@ -5,6 +5,6 @@
 - Check Leap Year
 - Calculate the average of the **odd** numbers
 - Remove duplicate items from an **Array**
-- Math, abs,round, ceil, floor and random numbers
+- Math, abs, round, ceil, floor and random numbers
 - JavaScript date and time
 - Swap variable, swap without temp, destructing
